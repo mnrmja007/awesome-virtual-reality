@@ -168,7 +168,7 @@
 
 ---
 
-***Contribution***
+**Contribution**
 
-**Do you hahve anything in your mind that you think is awesome and is should fit in this above list? Feel free to send a pull request.**
+Do you hahve anything in your mind that you think is awesome and is should fit in this above list? Feel free to send a pull request.
 
